@@ -20,9 +20,17 @@ A single-page responsive React website that helps users discover and register fo
    ```
 
 2. Install dependencies:
+
+   ```bash
    npm install
 
+   ```
+
 3. Start the development server:
+
+   ```bash
    npm run dev
+
+   ```
 
 4. Open http://localhost:5173 in your browser to see the app.
